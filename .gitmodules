@@ -1,0 +1,4 @@
+[submodule "custom/bank-payment"]
+	path = custom/bank-payment
+	url = https://github.com/Odoo-Infolab/bank-payment.git
+	branch = 19.0
