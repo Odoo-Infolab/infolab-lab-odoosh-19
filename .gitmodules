@@ -2,3 +2,7 @@
 	path = custom/bank-payment
 	url = https://github.com/Odoo-Infolab/bank-payment.git
 	branch = 19.0
+[submodule "custom/account-payment"]
+	path = custom/account-payment
+	url = https://github.com/OCA/account-payment.git
+	branch = 19.0
