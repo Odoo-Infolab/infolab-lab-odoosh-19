@@ -1,0 +1,4 @@
+[submodule "custom/l10n-spain"]
+	path = custom/l10n-spain
+	url = https://github.com/Odoo-Infolab/l10n-spain.git
+	branch = 19.0
