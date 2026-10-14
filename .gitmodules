@@ -10,3 +10,7 @@
 	path = custom/account-financial-reporting
 	url = https://github.com/Odoo-Infolab/account-financial-reporting.git
 	branch = 19.0
+[submodule "custom/server-ux"]
+	path = custom/server-ux
+	url = https://github.com/Odoo-Infolab/server-ux.git
+	branch = 19.0
