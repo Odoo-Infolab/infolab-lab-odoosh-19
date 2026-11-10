@@ -1,0 +1,24 @@
+[submodule "custom/l10n-spain"]
+	path = custom/l10n-spain
+	url = https://github.com/Odoo-Infolab/l10n-spain.git
+	branch = 19.0
+[submodule "custom/reporting-engine"]
+	path = custom/reporting-engine
+	url = https://github.com/Odoo-Infolab/reporting-engine.git
+	branch = 19.0
+[submodule "custom/account-financial-reporting"]
+	path = custom/account-financial-reporting
+	url = https://github.com/Odoo-Infolab/account-financial-reporting.git
+	branch = 19.0
+[submodule "custom/server-ux"]
+	path = custom/server-ux
+	url = https://github.com/Odoo-Infolab/server-ux.git
+	branch = 19.0
+[submodule "custom/bank-payment"]
+	path = custom/bank-payment
+	url = https://github.com/Odoo-Infolab/bank-payment.git
+	branch = 19.0
+[submodule "custom/account-payment"]
+	path = custom/account-payment
+	url = https://github.com/OCA/account-payment.git
+	branch = 19.0
